@@ -1,0 +1,10 @@
+{
+  "reservations_helper": {
+    "reservations_file_name": "reservations.csv"
+  },
+
+  "database_helper": {
+    "table_name": "reservations",
+    "reservations_db_path": "dependencies/db/reservations.db"
+  }
+}
